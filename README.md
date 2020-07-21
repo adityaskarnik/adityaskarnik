@@ -6,7 +6,7 @@ I'm a passionate self-taught (not sure, sometimes Frontend, sometimes Backend) d
 
 ### Find me on the Web:
 - [Twitter](https://twitter.com/aditya_karnik)
-- I also love photography 🤘 [Instagram](https://instagram/adityakarnik)
+- I also love photography 🤘 [Instagram](https://instagram.com/adityakarnik)
 - Let's talk professional [LinkedIn](https://linkedin.com/in/adityaskarnik)
 
 <!--
