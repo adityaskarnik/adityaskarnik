@@ -1,7 +1,7 @@
 ## Hi, I'm Aditya 👋🏾 🤓
 
 I'm a passionate self-taught (not sure, sometimes Frontend, sometimes Backend) developer from India. I work as a Senior Engineer, passionate about building something big, open-source.
-- 🔭 I’m currently working on [Expense App](https://github.com/adityaskarnik/expense_app) and my own GitHub page
+- 🔭 I’m currently working on [Expense App](https://github.com/adityaskarnik/expense_app) and my own [GitHub Page](http://adityaskarnik.github.io/)
 - 🌱 I’m currently studying Machine Learning
 
 ### Find me on the Web:
