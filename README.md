@@ -1,4 +1,4 @@
-## Hi, I'm Aditya 👋🏾 🤓
+# Hi, I'm Aditya 👋🏾 🤓
 
 I'm a passionate self-taught Backend developer from India. I work as a Senior Engineer, passionate about building something big, open-source.
 - 🔭 I’m currently working on [Expense App](https://github.com/adityaskarnik/expense_app) and my own [GitHub Page](http://adityaskarnik.github.io/)
