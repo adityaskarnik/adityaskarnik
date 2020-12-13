@@ -1,8 +1,10 @@
 # Hi, I'm Aditya 👋🏾 🤓
 
 I'm a passionate self-taught Backend developer from India. I work as a Senior Engineer, excited about building something big, open-source.
-- 🔭 I’m currently working on [Exception Notifier](https://github.com/adityaskarnik/exception_notifier) and my own [GitHub Page](http://adityaskarnik.github.io/)
+- Recent blog: [Exception Notifier](https://adityakarnik.com/blog/exception_notifier) and [ChatBot](https://adityakarnik.com/blog/chatbot)
+- 🔭 I’m currently working on own [Website](https://adityaskarnik.com)
 - 🌱 I’m currently studying Machine Learning
+
 
 ### Find me on the Web:
 - [Twitter](https://twitter.com/aditya_karnik)
