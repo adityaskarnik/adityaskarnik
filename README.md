@@ -3,7 +3,7 @@
 I'm a passionate self-taught Backend developer from India. I work as a Senior Engineer, excited about building something big, open-source.
 - Recent blog: [Docker Compose](https://adityakarnik.com/blog/docker_compose), [Exception Notifier](https://adityakarnik.com/blog/exception_notifier) and [ChatBot](https://adityakarnik.com/blog/chatbot)
 - 🔭 I’m currently working on own [Website](https://adityakarnik.com)
-- 🌱 I’m currently studying Machine Learning
+- 🌱 [Check the code snippets I keep adding whenever I feel something useful](https://gist.github.com/adityaskarnik)
 
 
 ### Find me on the Web:
