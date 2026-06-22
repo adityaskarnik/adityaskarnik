@@ -1,9 +1,9 @@
 # Hi, I'm Aditya 👋🏾 🤓
 
-I'm a passionate self-taught Backend developer from India. I work as a Senior Engineer, excited about building something big, open-source.
+I'm a passionate self-taught Backend developer from India. I work as a Lead, excited about building something big, open-source.
 - Recent blog: [Docker Compose](https://adityakarnik.com/blog/docker_compose), [Exception Notifier](https://adityakarnik.com/blog/exception_notifier) and [ChatBot](https://adityakarnik.com/blog/chatbot)
 - 🔭 I’m currently working on own [Website](https://adityakarnik.com)
-- 🌱 [Check the code snippets I keep adding whenever I feel something useful](https://gist.github.com/adityaskarnik)
+- 🌱 [Check the code snippets I keep adding whenever I find something useful](https://gist.github.com/adityaskarnik)
 
 
 ### Find me on the Web:
@@ -11,7 +11,7 @@ I'm a passionate self-taught Backend developer from India. I work as a Senior En
 - I also love photography 🤘 [Instagram](https://instagram.com/adityakarnik)
 - Let's talk professional [LinkedIn](https://linkedin.com/in/adityaskarnik)
 
-### Let me know you feedback [here](https://adityakarnik.com/survey)
+### Let me know your feedback [here](https://adityakarnik.com/survey)
 <!--
 **adityaskarnik/adityaskarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
